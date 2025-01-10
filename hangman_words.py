@@ -1,0 +1,28 @@
+hangman_words = [ 
+  "apple", "anchor", "arrow", "axis", "alert", "axis",
+  "ball", "bear", "bird", "basket", "bloom", "book", "branch", "battle","cloud", "candle", 
+  "castle", "curve", "card", "chair", "camera", "deer", "dance", "desert", "drum", "doll", "dish", "diamond", 
+  "dream","eagle", "energy", "engine", "earth", "echo", "edge", "emerald",
+  "fish", "fire", "feather", "flame", "friend", "fruit", "field", "fortune", "frost",
+  "goat", "gold", "galaxy", "garden", "game", "gear", "glory", "glove", "grain",
+  "horse", "hill", "harbor", "house", "hero", "heart", "hedge", "helmet", "honey",
+  "ice", "island", "image", "idea", "iron", "item", "ivory", "impact",
+  "jewel", "jump", "jacket", "journey", "justice", "jungle", "joy", "jack", "joke",
+  "kite", "king", "kitchen", "key", "knight", "knife", "knot",
+  "lion", "lake", "leaf", "ladder", "lamp", "love", "light", "lemon", "laugh",
+  "moon", "mask", "music", "memory", "mouse", "magnet", "moment", "medal",
+  "night", "nest", "needle", "number", "note", "navy", "nectar", "noise", "nation",
+  "ocean", "oak", "orbit", "orange", "ostrich", "oval", "order", "onion", "omen",
+  "pearl", "pigeon", "paper", "plate", "puzzle", "pocket", "picture", "plant", "piano",
+  "queen", "quilt", "quartz", "quill", "quirk", "quiet", "quarter", "quest",
+  "rose", "river", "rock", "rain", "rabbit", "road", "roof", "rainbow", "recipe",
+  "sun", "sea", "ship", "star", "smile", "shadow", "stone", "spring", "school",
+  "tree", "tiger", "table", "train", "tool", "truth", "temple", "tower", "unicorn", 
+  "unity", "urn", "unlock", "update", "uphill", "union", "violin", "valley", "volcano", 
+  "velvet", "vapor", "voice", "victory", "voyage", "vision",
+  "whale", "wind", "wave", "window", "winter", "wonder", "world", "wood", "wisdom",
+  "x-ray", "xenon", "xerox", "xiphoid", "xenial", "xylan", "xyster",
+  "yacht", "yellow", "yard", "yolk", "youth", "year", "yarn", "yields", "yawn",
+  "zebra", "zigzag", "zone", "zipper", "zest", "zombie", "zenith", "zeal", "zinnia"
+ ]
+
